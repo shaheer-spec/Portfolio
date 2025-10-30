@@ -1,4 +1,4 @@
-package com.pluralsight;
+package com.pluralsight.finance;
 
 public class CreditCard implements IValuable{
     private String name;
