@@ -1,4 +1,5 @@
 package com.pluralsight;
 
-public class IValuable {
+public interface IValuable {
+    double getValue();
 }
